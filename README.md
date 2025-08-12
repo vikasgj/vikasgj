@@ -13,6 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=vikasgj&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vikasgj&theme=default_repocard&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vikasgj&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=vikasgj&show_icons=true&include_all_commits=true&count_private=true&theme=default_repocard&hide_border=false&custom_title=Contributions)
+![](https://github-readme-stats.vercel.app/api?username=vikasgj&show_icons=true&include_all_commits=true&count_private=true&theme=default_repocard&hide_border=false&custom_title=Total%20Contributions)
+
 
 
