@@ -60,6 +60,12 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
+### ☁️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/docker-0db7ed?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5?style=flat&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-2671E5.svg?style=flat&logo=github-actions&logoColor=white)
+
 ### 🧠 AI/ML & Data
 ![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white)
@@ -92,10 +98,6 @@
 ---
 
 ⭐ *Always open to opportunities in Software Engineering, Full Stack, and AI/ML roles*
-# <h2>📊 GitHub Stats:</h2>
-![](https://github-readme-stats.vercel.app/api?username=vikasgj&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vikasgj&theme=default_repocard&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vikasgj&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
